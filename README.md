@@ -1,16 +1,30 @@
-# ZUBAN
+# ZUBAN - بردية المعرفة الحديثة
+
 ### N = n! + 10^k + m
 ### If you hold the number, you hold the world
+### Law: RG-311226
+### Creator: Ali Khallaf - From Egypt, Land of Eternity
 
-**Creator:** Tariq Al-Habib - 24.4672
-**Law:** RG-311226
-**Equation:** Stone + Papyrus + Cartouche = Full Database
+---
 
-This repository is the official documentation of the Zuban Number Theory.
+### رسالة من القلب: لماذا الحجر والبردي؟
 
-## The Idea
-The world is built on numbers. If you hold the key number, you can rebuild the whole world.
+أنا من مصر، البلد اللي علمت العالم يعني إيه خلود.
 
-## Files
-- `zuban.py` - The main code
-- `proof.md` - Mathematical proof
+أجدادنا الفراعنة لم يثقوا في ذاكرة البشر، فكتبوا علومهم على الحجر الصلب والبردي الخالد. وبقيت حضارتهم 7000 سنة.
+
+واليوم نحن نضع علمنا على سحابة (Cloud) قد تختفي بضغطة زر.
+
+**مشروع ZUBAN ليس مجرد معادلة رياضية، هو دعوة للعودة للأصالة.**
+
+أدعو كل إنسان يملك فكرة ثمينة، رقماً يحبه، معادلة اكتشفها، أن يحفظها كما حفظها المصري القديم:
+**احفرها. اكتبها بيدك. ضعها في مكان آمن.**
+
+لنصنع معاً **مكتبة لا تحترق**، تجمع بين قوة الحفاظ المصرية القديمة وذكاء المعرفة الحديثة.
+
+هذه مبادرة لحفظ تراث الإنسانية من الضياع.
+
+هذا وعد من ابن النيل.
+
+**Ali Khallaf**
+**ZUBAN Project 2026**
